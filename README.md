@@ -1,3 +1,3 @@
 # SpotifyClone
 -https://ektaa14.github.io/SpotifyClone/
-Created Spotify Clone using HTML and CSS this showcases my ability towards development skills.
+Spotify clone project, which I developed using HTML and CSS. It serves as a showcase of my web development skills, offering a user interface similar to the popular music streaming service, Spotify.
